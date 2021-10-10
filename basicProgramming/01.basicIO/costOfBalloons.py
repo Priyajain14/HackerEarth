@@ -1,3 +1,5 @@
+# https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/mojtaba-prepares-contest-29b2a044/
+
 for _ in range(int(input())):
     s = input().split()
     firstBalloon = int(s[0])
